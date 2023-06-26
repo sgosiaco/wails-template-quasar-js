@@ -27,6 +27,14 @@
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.14"
   },
+  "resolutions": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.0.0"
+  },
+  "overrides": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.0.0"
+  },
   "engines": {
     "node": "^18 || ^16 || ^14.19",
     "npm": ">= 6.13.4",
